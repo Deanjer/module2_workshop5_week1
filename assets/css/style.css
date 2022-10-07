@@ -18,6 +18,13 @@ label{
     background-color: hotpink;
 }
 
-fieldset{
-    
+#stap10 h2{
+    font-weight: bold;
+    color: rgb(82, 82, 82);
+    padding-left: 5px;
+}
+
+
+label{
+    display: inline-block;
 }
